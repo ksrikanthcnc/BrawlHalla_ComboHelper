@@ -6,7 +6,6 @@ from tkinter import *
 debug = True if "debug" in sys.argv else False
 # TODO move stuff to config files
 # TODO menu, tinker
-# TODO https://github.com/hrt/BrawlBot to get if in_air
 
 d_controls = {
     "up": KeyCode.from_char("w"),

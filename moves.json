@@ -1,0 +1,117 @@
+{
+    "jump": {
+        "directions": [
+            "left",
+            "right",
+            "up",
+            "down",
+            null
+        ],
+        "attack": [
+            "jump"
+        ]
+    },
+    "nlight": {
+        "directions": [
+            "up",
+            null
+        ],
+        "attack": [
+            "light"
+        ]
+    },
+    "slight": {
+        "directions": [
+            "left",
+            "right"
+        ],
+        "attack": [
+            "light"
+        ]
+    },
+    "dlight": {
+        "directions": [
+            "down"
+        ],
+        "attack": [
+            "light"
+        ]
+    },
+    "nair": {
+        "directions": [
+            "up",
+            null
+        ],
+        "attack": [
+            "light"
+        ]
+    },
+    "sair": {
+        "directions": [
+            "left",
+            "right"
+        ],
+        "attack": [
+            "light"
+        ]
+    },
+    "dair": {
+        "directions": [
+            "down"
+        ],
+        "attack": [
+            "light"
+        ]
+    },
+    "nsig": {
+        "directions": [
+            "up",
+            null
+        ],
+        "attack": [
+            "heavy"
+        ]
+    },
+    "ssig": {
+        "directions": [
+            "left",
+            "right"
+        ],
+        "attack": [
+            "heavy"
+        ]
+    },
+    "dsig": {
+        "directions": [
+            "down"
+        ],
+        "attack": [
+            "heavy"
+        ]
+    },
+    "recovery": {
+        "directions": [
+            "up",
+            null
+        ],
+        "attack": [
+            "heavy"
+        ]
+    },
+    "gp": {
+        "directions": [
+            "down"
+        ],
+        "attack": [
+            "heavy"
+        ]
+    },
+    "gc": {
+        "directions": [
+            null
+        ],
+        "attack": [
+            "dodge"
+        ]
+    }
+}
